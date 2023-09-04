@@ -1,0 +1,2 @@
+# importando sqlite 
+print(idade)
